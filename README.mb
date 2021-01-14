@@ -1,0 +1,5 @@
+# LAB6AK
+# ПРОТОКОЛ -> LAB6AK.docx
+## Usage
+    $ insmod hello6.ko
+    $ rmmod hello6.ko
